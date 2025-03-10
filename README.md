@@ -9,8 +9,3 @@ Nesta nova etapa do projeto, foi desenvolvido um relatório altamente interativo
 ## 🖥️ Tecnologias utilizadas no Projeto:
 
 * [Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
-
-
-## 🙍🏽 Profissional
-Orlando Gomes
-[GitHub](https://github.com/orlandoabreugomes) | [Linkedin](https://www.linkedin.com/in/orlandoabreugomes/) | [e-mail](mailto:gomes.oa@gmail.com)
